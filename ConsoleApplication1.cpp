@@ -5,4 +5,5 @@ int main()
     setlocale(LC_ALL, "Rus");
     cout << "Аа\n";
     cout << "Bb\n";
+    Console.WriteLine("изменения!");
 }
